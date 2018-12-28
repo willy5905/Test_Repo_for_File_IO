@@ -1,0 +1,6 @@
+4
+100
+
+//The first number indicates the COM Port you wish to connect. For example, "5" means you wish to connect to COM Port 5.
+//The second number indicates the time interval between each command. For example, "500" means the time interval between each command sent is 500 ms.
+//Note: DO NOT otherwise manipulate this file. 
